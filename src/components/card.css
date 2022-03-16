@@ -1,0 +1,17 @@
+.cardBx {
+    margin: 30px auto;
+    width: fit-content;
+}
+
+.cardBx .title {
+    font-size: 25px;
+}
+
+.cardBx button {
+    margin-top: 25px;
+    background-color: #e6e6e6;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
